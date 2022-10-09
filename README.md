@@ -12,3 +12,6 @@ You need to reveal all tiles without clicking on a mine by using the numbers to 
 
 
 
+  ![alt text](https://github.com/RivenSama/minesweeperGame/blob/master/menu.gif "THE MENU")
+  
+   ![alt text](https://github.com/RivenSama/minesweeperGame/blob/master/game.gif "Gameplay")
