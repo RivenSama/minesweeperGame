@@ -1,18 +1,14 @@
-## Getting Started
+## A Minesweeper Clone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Made with Java swing
 
-## Folder Structure
+## Rules
 
-The workspace contains two folders by default, where:
+You need to reveal all tiles without clicking on a mine by using the numbers to win
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+-You can Right Click on a tile to put a Flag on it, as well as remove it.
+  Flag will help you fin mines
+- You can click on a revealed tile if the number of flags adjacent to it corresponds to the number in order to reveal an area
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
